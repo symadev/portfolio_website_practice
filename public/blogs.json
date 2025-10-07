@@ -1,0 +1,30 @@
+
+   [
+    {
+      "title": "Timely Tested Website Development",
+      "author": "Admin",
+      "category": "Business",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "date": "16 October 2021",
+      "readMore": "Read More",
+      "image": "blog1.jpg"
+    },
+    {
+      "title": "Timely Tested Website Development",
+      "author": "Admin",
+      "category": "Business",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "date": "16 October 2021",
+      "readMore": "Read More",
+      "image": "blog2.jpg"
+    },
+    {
+      "title": "Timely Tested Website Development",
+      "author": "Admin",
+      "category": "Business",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "date": "16 October 2021",
+      "readMore": "Read More",
+      "image": "blog3.jpg"
+    }
+  ]
