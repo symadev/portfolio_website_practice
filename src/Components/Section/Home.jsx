@@ -7,7 +7,7 @@ import Review from "./Review";
 import Testimonial from "./Testimonial";
 import Contact from "./Contact";
 import Footer from "./Footer";
-import CompletionStats from "./completionStats";
+import CompletionStats from "./CompletionStats";
 import Blogs from "./Blogs";
 
 
